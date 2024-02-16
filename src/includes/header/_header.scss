@@ -1,0 +1,11 @@
+header {
+    min-height: 100px;
+    width: 100%;
+    background-color: skyblue;
+    text-align: center;
+    grid-column: span 12;
+
+    h1 {
+        background-color: green;
+    }
+}
